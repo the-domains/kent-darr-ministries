@@ -23,7 +23,7 @@ color:
     - '#cf9081'
     - '#915c4e'
   brandStrength: 0
-  lightness: 1
+  lightness: 0
   saturation: 0
   rhythmicContrast: 0
 purpose: []

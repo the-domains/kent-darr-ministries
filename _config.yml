@@ -1,0 +1,28 @@
+name: Kent Darr Ministries
+favicon: null
+layout_spectrum: 0.3940797965042293
+typography_spectrum: 0.39168888819403946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.06018002820201218
+  lightness: 0.8900275388732553
+  saturation: 0.980659382417798
+  rhythmicContrast: 0.39780840440653265
+purpose: []
